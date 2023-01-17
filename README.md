@@ -4,5 +4,7 @@ MVC(model-view-controller) was used as the project architecture.
 <br> 
 [Documentation](https://github.com/Andrei-Lichi/ScheduleApp/files/10438225/Project.and.process.report.pdf)
 <br>
+[Apendicies](https://github.com/Andrei-Lichi/ScheduleApp/files/10439900/Apendicies.important.zip)
 <br>
 Note: open JavaFXSchedulingApplication folder in order to run the project and install the latest version of JavaFX
+
